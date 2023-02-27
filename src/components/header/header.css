@@ -45,9 +45,13 @@
 /* ACTIVE LINK */
 .active-link,
 .nav__link:hover {
-  color: var(--title-color-dark);
+  color: #e6c85d;
 }
 
+/* CHANGE BACKGROUND HEADER */
+.scroll-header {
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.2);
+}
 /* BREAKPOINTS */
 /* For medium devices */
 @media screen and (max-width: 768px) {
