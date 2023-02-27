@@ -11,7 +11,7 @@ const Social = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <i class="uil uil-facebook"></i>
+          <i className="uil uil-facebook"></i>
         </a>
 
         <a
@@ -19,7 +19,7 @@ const Social = () => {
           className="home__social-icon"
           target="_blank"
         >
-          <i class="uil uil-instagram"></i>
+          <i className="uil uil-instagram"></i>
         </a>
 
         <a
@@ -27,7 +27,7 @@ const Social = () => {
           className="home__social-icon"
           target="_blank"
         >
-          <i class="uil uil-google"></i>
+          <i className="uil uil-google"></i>
         </a>
 
         <a
@@ -35,7 +35,7 @@ const Social = () => {
           className="home__social-icon"
           target="_blank"
         >
-          <i class="uil uil-twitter"></i>
+          <i className="uil uil-twitter"></i>
         </a>
 
         <a
@@ -43,7 +43,7 @@ const Social = () => {
           className="home__social-icon"
           target="_blank"
         >
-          <i class="uil uil-linkedin"></i>
+          <i className="uil uil-linkedin"></i>
         </a>
 
         <a
@@ -51,7 +51,7 @@ const Social = () => {
           className="home__social-icon"
           target="_blank"
         >
-          <i class="uil uil-github"></i>
+          <i className="uil uil-github"></i>
         </a>
       </div>
     </>

@@ -8,7 +8,7 @@ const Other = () => {
       <div className="skills__box">
         <div className="skills__group">
           <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
+            <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">OOP</h3>
               <span className="skills__level">Intermediate</span>
@@ -16,7 +16,7 @@ const Other = () => {
           </div>
 
           <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
+            <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Data Structure</h3>
               <span className="skills__level">Intermediate</span>
@@ -26,7 +26,7 @@ const Other = () => {
 
         <div className="skills__group">
           <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
+            <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Trello</h3>
               <span className="skills__level">Intermediate</span>
@@ -34,7 +34,7 @@ const Other = () => {
           </div>
 
           <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
+            <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Adobe XD</h3>
               <span className="skills__level">Intermediate</span>
